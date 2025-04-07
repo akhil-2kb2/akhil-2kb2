@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 AKHILESH YADAV | CSE Final Year<br><br>🔥 I'm currently working on a Blogging Web Page using MERN<br>** 🤝 I'm looking to collaborate on Scalable & Secure Web Apps<br>• 🛠️ I'm looking for help with Advanced JavaScript & IoT Projects<br>📚 I'm currently learning JavaScript (Advanced) & Portfolio Development<br><br>🎯 🎉 Fun fact: I love solving real-world problems with minimalistic solutions!
+🚀 AKHILESH YADAV | CSE Final Year | TEZPUR UNIVERSITY (TU)<br><br>🔥 I'm currently working on a Blogging Web Page using MERN<br>** 🤝 I'm looking to collaborate on Scalable & Secure Web Apps<br>• 🛠️ I'm looking for help with Advanced JavaScript & IoT Projects<br>📚 I'm currently learning JavaScript (Advanced) & Portfolio Development<br><br>🎯 🎉 Fun fact: I love solving real-world problems with minimalistic solutions!
 
 
 ## 🌐 Socials:
