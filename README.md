@@ -1,6 +1,15 @@
-# 💫 About Me:
-🚀 AKHILESH YADAV | CSE Final Year | TEZPUR UNIVERSITY (TU)<br><br>🔥 I'm currently working on a Blogging Web Page using MERN<br>** 🤝 I'm looking to collaborate on Scalable & Secure Web Apps<br>• 🛠️ I'm looking for help with Advanced JavaScript & IoT Projects<br>📚 I'm currently learning JavaScript (Advanced) & Portfolio Development<br><br>🎯 🎉 Fun fact: I love solving real-world problems with minimalistic solutions!
+#💫 About Me
+🚀 Akhilesh Yadav
+Final Year CSE Student | Tezpur University (TU)
 
+I am passionate about building real-world, scalable solutions with clean architecture and modern web technologies.
+Currently, I am working on two major full-stack projects:
+
+An Apartment Management System using Java Spring Boot, MySQL, and Next.js, aimed at digitizing residential community operations through secure role-based access and centralized data handling.
+
+A Secure Blog Platform using the MERN stack (MongoDB, Express.js, React.js, Node.js), designed for content creation with features like OTP-based authentication, Google OAuth, and AWS S3-based image uploads.
+
+Both projects are ongoing, with production-ready backends and frontend development in progress.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AK2KB2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhil_ak2kb2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhileshyadavak2kb2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akhil_ak2kb2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudraaraju@gmail.com) 
