@@ -44,9 +44,9 @@ Both projects have production-ready backends, and frontend development is active
 ---
 
 ## 🏆 Certifications:
-- Java Programming Essentials (Coursera)
-- Backend Web Development with Node.js (Udemy)
-- Full-Stack Development (freeCodeCamp, ongoing)
+- Java Programming Essentials (APNA COLLEGE)
+- Backend Web Development with Node.js, Spring Boot, ()
+- Full-Stack Development ()
 
 ---
 
