@@ -5,6 +5,7 @@ Final Year CSE Student | Tezpur University (TU)
 I am passionate about building real-world, scalable solutions with clean architecture and modern web technologies.  
 I'm currently developing two robust full-stack projects focused on real-world use cases:
 
+
 - 🏢 **Apartment Management System** — Java Spring Boot, MySQL, and Next.js  
   Digitizing residential community operations through secure role-based access and centralized data handling.
 
