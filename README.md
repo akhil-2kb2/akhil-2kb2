@@ -65,6 +65,7 @@ Both projects have production-ready backends, and frontend development is active
 <sub>📱 *Note: GitHub Streak best visible on Desktop Browser*</sub><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-2kb2&theme=blueberry&hide_border=false&layout=compact&cache_seconds=1800)
 
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=akhil-2kb2&theme=blue&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
