@@ -61,9 +61,9 @@ Both projects have production-ready backends, and frontend development is active
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akhil-2kb2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=akhil-2kb2&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-2kb2&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats-ak2kb2.vercel.app/api?username=akhil-2kb2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=akhil-2kb2&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats-ak2kb2.vercel.app/api/top-langs/?username=akhil-2kb2&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
