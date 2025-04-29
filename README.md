@@ -62,7 +62,8 @@ Both projects have production-ready backends, and frontend development is active
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akhil-2kb2&theme=gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=akhil-2kb2&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=akhil-2kb2&theme=custom&hide_border=false&background=0D1117&ring=3DDC84&fire=F7DF1E&currStreakLabel=F7DF1E&sideNums=3DDC84&dates=ffffff)](https://git.io/streak-stats)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-2kb2&theme=gradient&hide_border=false&layout=compact)
 
 ---
