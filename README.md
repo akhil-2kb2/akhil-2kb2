@@ -59,17 +59,16 @@ Both projects have production-ready backends, and frontend development is active
 - Astronomy, Space Science, and Life Sciences Enthusiast 🚀
 
 ---
-
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akhil-2kb2&theme=gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=akhil-2kb2&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-2kb2&theme=gradient&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akhil-2kb2&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=akhil-2kb2&theme=blueberry&hide_border=false)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-2kb2&theme=blueberry&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=akhil-2kb2&theme=radical&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akhil-2kb2&theme=blue&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📅 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akhil-2kb2&theme=tokyo-night&hide_border=false)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akhil-2kb2&theme=github-compact)
 
 ---
 
