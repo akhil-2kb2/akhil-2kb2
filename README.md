@@ -1,6 +1,6 @@
 # 💫 About Me
 🚀 **Akhilesh Yadav**  
-**Building Full-Stack Products for Real-World Impact | Final Year CSE Undergraduate @ Tezpur University (TU)**
+**Building Full-Stack Products for Real-World Impact | Final Year CSE Postgraduate(M.C.A.) @ Tezpur University (TU)**
 
 I am passionate about building real-world, scalable solutions using clean architecture and modern web technologies.  
 Currently, I am developing two robust full-stack projects focused on solving practical real-world problems:
