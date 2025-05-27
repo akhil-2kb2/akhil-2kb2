@@ -11,7 +11,7 @@ Currently, I am developing two robust full-stack projects focused on solving pra
 - 📝 **Secure Blog Platform** — MERN Stack (MongoDB, Express.js, React.js, Node.js)  
   Designed for secure content publishing, featuring OTP-based authentication, Google OAuth, and AWS S3 image uploads.
 
-Both projects have production-ready backends, and frontend development is actively progressing.
+Both projects have production-ready backends, and frontend .
 
 ---
 
