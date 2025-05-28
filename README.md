@@ -5,7 +5,7 @@
 I am passionate about building real-world, scalable solutions using clean architecture and modern web technologies.  
 Currently, I am developing two robust full-stack projects focused on solving practical real-world problems:
 
-- 🏢 **Apartment Management System** — Java Spring Boot, MySQL, and Next.js  
+- 🏢 **Apartment Management System** — Java Spring Boot, MySQL, and Next.js.  
   Empowering residential communities with secure role-based access and centralized operations.
 
 - 📝 **Secure Blog Platform** — MERN Stack (MongoDB, Express.js, React.js, Node.js)  
